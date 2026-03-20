@@ -1,0 +1,4 @@
+Phase_01 Create AI Agent
+    Setup API keys for GROQ and Tavily
+    Setup LLM tools
+    AI tool for Search functionality

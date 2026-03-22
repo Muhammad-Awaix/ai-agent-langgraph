@@ -1,8 +1,8 @@
-langchain
+langchain>=0.1.0
 langchain-groq
 langchain-community
 langgraph
 python-dotenv
-streamlit
 pydantic
-langchain_tavily
+flask
+uvicorn

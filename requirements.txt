@@ -1,8 +1,10 @@
-langchain>=0.1.0
+langchain
 langchain-groq
 langchain-community
+langchain-tavily
 langgraph
-python-dotenv
-pydantic
-flask
+fastapi
 uvicorn
+flask
+python-dotenv
+requests
